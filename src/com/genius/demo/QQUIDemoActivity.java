@@ -2,7 +2,7 @@ package com.genius.demo;
 
 import android.app.Activity;
 import android.os.Bundle;
-
+//zhujiem
 public class QQUIDemoActivity extends Activity {
     /** Called when the activity is first created. */
     @Override
